@@ -65,5 +65,12 @@ A list of RSS feeds which are related to Linux, FOSS, or FOSS in Education
 * https://www.linux.org.ru/section-rss.jsp
 
 ## Unsorted RSS feeds
+### Linux
 * https://feeds.feedburner.com/d0od
 * https://www.linux-magazine.com/rss/feed/lmi_news
+
+# Other RSS feeds
+* https://github.com/git-list/security-rss-list
+* https://github.com/rgnlax/Feeds-for-iOS-Developer
+* https://github.com/khepin/symfonybloggers
+* https://github.com/plenaryapp/awesome-rss-feeds
