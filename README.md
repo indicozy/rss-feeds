@@ -17,6 +17,7 @@ A list of RSS feeds which are related to Linux, FOSS, or FOSS in Education
 * https://www.linuxuprising.com/feeds/posts/default
 * https://feeds.feedburner.com/d0od
 * https://www.linux-magazine.com/rss/feed/lmi_news
+* https://www.linux.com/feed
 
 ### Desktop Environments
 * http://planet.gnome.org/atom.xml
@@ -53,7 +54,6 @@ A list of RSS feeds which are related to Linux, FOSS, or FOSS in Education
 * https://www.redhat.com/en/rss/blog
 * https://news.opensuse.org/feed/
 * https://ubuntu.com/blog/feed
-* https://www.linux.com/feed
 
 ### Linux Apps
 * https://neovim.io/news.xml
