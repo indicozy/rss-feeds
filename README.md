@@ -74,3 +74,5 @@ A list of RSS feeds which are related to Linux, FOSS, or FOSS in Education
 * https://github.com/rgnlax/Feeds-for-iOS-Developer
 * https://github.com/khepin/symfonybloggers
 * https://github.com/plenaryapp/awesome-rss-feeds
+
+TODO: Add moodle, opensource, bbb, and jitsi
