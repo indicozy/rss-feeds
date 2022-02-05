@@ -63,8 +63,9 @@ A list of RSS feeds which are related to Linux, FOSS, or FOSS in Education
 * https://pingvinus.ru/rss.xml
 * https://komyounity.com/feed
 * http://feeds.feedburner.com/losst
-* https://blog.liberoproject.kz/feed
+* https://liberoproject.kz/feed
 * https://www.linux.org.ru/section-rss.jsp
+* https://www.opennet.ru/opennews/opennews_all_utf.rss
 
 ## Unsorted RSS feeds
 * None
